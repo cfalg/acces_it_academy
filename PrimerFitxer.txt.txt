@@ -1,3 +1,7 @@
 Primer Fitxer TXT
 
+<<<<<<< HEAD
 Ara he tornat al master i he modificat el fitxer
+=======
+Ara he modificat el fitxer del branch1
+>>>>>>> branch1
