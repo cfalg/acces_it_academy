@@ -1,1 +1,3 @@
 Primer Fitxer TXT
+
+Ara he tornat al master i he modificat el fitxer
